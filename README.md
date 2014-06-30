@@ -34,8 +34,6 @@ angular.module('<YOUR_ANGULAR_APP>').config(function(facebookProvider){
 
 Replace these values with the values that correspond to your app:
 
-<YOUR_ANGULAR_APP>    - your angular app ID (ng-app)
-
-<YOUR_FACEBOOK_APPID> - your facebook app ID (for example: "234229944")
-
-<YOUR_FACEBOOK_APP_PERMISSIONS_SCOPE> - permissions required by your app (for example: "manage_notifications")
+"YOUR_ANGULAR_APP"    - your angular app ID (ng-app)
+"YOUR_FACEBOOK_APPID" - your facebook app ID (for example: "234229944")
+"YOUR_FACEBOOK_APP_PERMISSIONS_SCOPE" - permissions required by your app (for example: "manage_notifications")
